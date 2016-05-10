@@ -8,7 +8,7 @@ I am a PhD Student at NTU Singapore working with Prof. Weisi Lin in the Multimed
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+A list of my publications is available here: [CV](https://www.dropbox.com/s/60n07gik1tlu3qq/CV_SharathChandra.pdf?dl=1)
 
 ### Contact me
 
